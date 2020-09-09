@@ -2,38 +2,48 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
-    
+
     font-size: 100%;
-    
-    
-    color:black;
-    
-    background-color:lawngreen;
-    
-}
-h1, h2, h3, h4, h5, h6, h7 {font-size: 169%;
-    
-     color:black;
-    
-    margin-right:50%;
-    
-    background-color:cyan;
-    
 
 
+    color: black;
 
+    background-color: lawngreen;
 
 }
 
-p
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+    font-size: 169%;
+
+    color: black;
+
+    margin-right: 50%;
+
+    background-color: cyan;
 
 
-{background-color:lightcoral;
+
 
 
 }
-html
-{background-color:deepskyblue;
+
+
+p {
+    background-color: lightcoral;
+
+
+}
+
+html {
+    
+
+background: linear-gradient(180deg, #e42445, #3873e2);
 
 
 }
